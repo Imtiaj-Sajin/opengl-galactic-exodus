@@ -3,26 +3,22 @@
 						=======================================
 
 
-#Acknowledgments
+# Acknowledgments
 
 We would like to express our gratitude to all the team members who contributed to the success of this project. Each member played a vital role, bringing unique skills and dedication to the table.
 
-------------------------------------------------------
-| SI |       Name                  |       ID        |
-------------------------------------------------------
-|  1 |Esm-e moula Chowdhury Abha   |  22-47166-1     |
-------------------------------------------------------
-|  2 |Susham Moula Chowdhury Akash |  22-47168-1     |
-------------------------------------------------------     
-|  3 |Md. Wahiduzzaman Suva        |  22-47171-1     |
-------------------------------------------------------
-|  4 |Md. Imtiaj Alam Sajin        |  22-47185-1     |
-------------------------------------------------------
+| SI | Name                           | ID           |
+|----|--------------------------------|--------------|
+| 1  | Esm-e moula Chowdhury Abha    | 22-47166-1   |
+| 2  | Susham Moula Chowdhury Akash  | 22-47168-1   |
+| 3  | Md. Wahiduzzaman Suva         | 22-47171-1   |
+| 4  | Md. Imtiaj Alam Sajin         | 22-47185-1   |
+
 
 Thank you to each member for their valuable contributions and dedication to the success of this project.
 
 
-#Certification & Permission
+# Certification & Permission
 
 This project, Galactic Exodus: Homeward Bound, is certified and open for sharing and exploration. You are welcome to use any part of this project, copy it, or draw inspiration from it for your own endeavors. We encourage collaboration and the sharing of ideas to foster a spirit of learning and innovation.
 
@@ -38,7 +34,7 @@ If you find value in this project or utilize its concepts, kindly provide approp
 
 
 
-Instruction:
+# Instruction:
 _____________________________________________________________________________________________________________________________________________
 
 Change the path of 'resources' folder in 18th line,
