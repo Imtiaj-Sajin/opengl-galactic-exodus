@@ -2,6 +2,9 @@
 	        				||  Galactic Exodus: Homeward Bound  ||
 						=======================================
 
+# View:
+![image](https://github.com/Imtiaj-Sajin/opengl-galactic-exodus/assets/100506477/73ea2226-4ee8-412b-af83-91749ca8e6d4)
+
 
 # Acknowledgments
 
