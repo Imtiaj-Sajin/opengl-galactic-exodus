@@ -4,9 +4,9 @@
 ![image](https://github.com/Imtiaj-Sajin/opengl-galactic-exodus/assets/100506477/73ea2226-4ee8-412b-af83-91749ca8e6d4)
 
 # Social Links
-  Youtube- https://youtu.be/D1DXTJp9y8o?si=vTo_evKoxlEpi3mw
-  Facebook- https://www.facebook.com/groups/aiubcoursesolution/posts/7068065266622986/
-
+  1. Youtube- https://youtu.be/D1DXTJp9y8o?si=vTo_evKoxlEpi3mw
+  2. Facebook- https://www.facebook.com/groups/aiubcoursesolution/posts/7068065266622986
+# Acknowledgement
 We would like to express our gratitude to all the team members who contributed to the success of this project. Each member played a vital role, bringing unique skills and dedication to the table.
 
 | SI | Name                           | ID           |
